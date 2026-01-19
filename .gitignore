@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Credentials / keys
+*.json
+
+# Data & outputs
+*.xlsx
+*.csv
+*.pkl
+
+# Logs
+*.log
+
+# Executables / installers
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
