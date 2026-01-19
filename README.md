@@ -48,9 +48,7 @@ PagePulse automates this workflow by providing:
 ---
 
 ## 📁 Repository Contents
-app.py # Main application logic (anonymized)
-README.md # Project documentation
-.gitignore # Excludes credentials, data, and artifacts
+- app.py # Main application logic (anonymized)
 
 ## ⚠️ Important Note
 
